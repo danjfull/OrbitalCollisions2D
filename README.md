@@ -8,7 +8,7 @@ This is representative of a situation where satellites could pass in close proxi
 ## Startup
 The folder must be downloaded and built for debugging,
 OR
-Download from https://github.com/danjfuller/cse210proj/tree/main/final/OrbitalCollisions_v1.1 for a built version (requires .net 7.0 on your computer).
+Download the OrbitalCollisions_v1.1 folder for a built version (requires .net 7.0 on your computer).
 
 When the program starts, the terminal will open and show informational text, which will read similar to this:
 Orbital Collision Simulator v1.1
